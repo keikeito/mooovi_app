@@ -1,7 +1,7 @@
 
 # README
 
-moooviレビュー投稿Webサイト
+レビュー投稿Webサイト
 
 ## Ruby version
 
